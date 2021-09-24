@@ -1,14 +1,21 @@
 # Orange Team 
 ***
-## Security Education and Awareness 
+## Application Security
 ### Overview
 
-### Behaviours
 
-### Phishing
+### Processes
+- SDLC (Secure Development Lifecycle) 
 
-### Passwords
+### Tools
+- SAST (Static Application Security Testing)
+- DAST (Dynamic Application Security Testing) 
 
-### Physical Security 
+#### Open Source
+- 
 
-***
+#### Commercial
+- Microfocus Fortify
+- Snyk
+- Checkmarx
+- Sonarqube
