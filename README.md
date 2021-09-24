@@ -8,3 +8,4 @@ Table of Contents
 - [Yellow Team](yellow-team.md)
 - [Orange Team](orange-team.md)
 - [Purple Team](purple-team.md)
+- [White Team](white-team.md)
