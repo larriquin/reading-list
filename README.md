@@ -2,4 +2,9 @@
 A collection of links to cyber security and IT resources. 
 
 Table of Contents
-- [Blue Team](Blue Team.md#Blue Team)
+- [Blue Team](blue-team.md)
+- [Red Team](red-team.md)
+- [Green Team](green-team.md)
+- [Yellow Team](yellow-team.md)
+- [Orange Team](orange-team.md)
+- [Purple Team](purple-team.md)
