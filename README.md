@@ -1,2 +1,2 @@
-# cybersecurity-resources
-A collection of links to cyber security and general IT resources. 
+# Larriquin's Reading List
+A collection of links to cyber security and IT resources. 
