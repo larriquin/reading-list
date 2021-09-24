@@ -4,9 +4,14 @@
 ## Overview
 
 ## Computer Science
+- [Harvard University: CS50 Introduction to Computer Science](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+- 
 
 ***
 ## Programming & Coding
+-[Codecademy](https://www.codecademy.com/)
+-[Free Code Camp](https://www.freecodecamp.org/)
+- [Code Like a Girl: Code Camp](https://learnto.codelikeagirl.com/courses)
 
 ***
 ## Software Architecture
