@@ -1,6 +1,8 @@
 # Larriquin's Reading List
 A collection of links to cyber security and IT resources. 
 
+See link to @aprilwright and @proxyblue's InfoSec Colour Wheel: https://hackernoon.com/introducing-the-infosec-colour-wheel-blending-developers-with-red-and-blue-security-teams-6437c1a07700
+
 Table of Contents
 - [Blue Team](blue-team.md)
 - [Red Team](red-team.md)
