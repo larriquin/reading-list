@@ -20,4 +20,4 @@
 
 ***
 ## Exploit Development
-- [See Exploit Development section under Purple Team](purple-team.md)
+- [See Purple Team](purple-team.md)
