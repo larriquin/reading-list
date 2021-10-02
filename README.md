@@ -11,3 +11,8 @@ Table of Contents
 - [Orange Team](orange-team.md)
 - [Purple Team](purple-team.md)
 - [White Team](white-team.md)
+
+
+TO DO:
+- Add role types underneath colours
+- 
