@@ -8,32 +8,38 @@ A collection of free and paid links to cyber security and IT resources.
 ## Table of Contents
 ### Security
 #### Defensive
-- [Blue Team](blue-team.md)
-- [DevSecOps](green-team.md)
-- [Orange Team](orange-team.md)
+- [Application Security](defensive/application-security.md)
+- [DevSecOps](defensive/devsecops.md)
+- [Digital Forensics](defensive/digital-forensics.md)
+- [Malware Reversing](defensive/malware-reversing.md)
+- [Security Operations](defensive/security-operations.md)
 
 #### Offensive
-- [Red Team](red-team.md)
-- [Purple Team](purple-team.md)
+- [Red Team](offensive/red-team.md)
+- [Purple Team](offensive/purple-team.md)
 
 #### Governance, Risk and Compliance
-- [Governance, Risk and Compliance](white-team.md)
-
+- [Standards](grc/grc.md)
+- [Behaviours, Education and Awareness](grc/security-awareness.md)
 
 ### General IT
 #### Computer Science
-- [Yellow Team](yellow-team.md)
+- [Computer Science](general/computer-science.md)
 
 #### Hardware 
 
 #### OS (Operating System)
+- [Operating System](general/operating-system.md)
 
 #### Networking
+- [Networking](general/networks.md)
 
-#### Web Applications
+#### Applications
+- [Applications](general/applications.md)
 
 #### Programming
+- [Programming](general/programming.md)
 
 ## TO DO:
-- [ ] Change TOC headers
-- [ ] Refactor MD pages
+- [x] Change TOC headers
+- [x] Refactor MD pages
