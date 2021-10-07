@@ -1,18 +1,39 @@
-# Larriquin's Reading List
-A collection of links to cyber security and IT resources. 
+# 🌟 Larriquin's Reading List 🌟
 
-See link to [@aprilwright and @proxyblue's InfoSec Colour Wheel](https://hackernoon.com/introducing-the-infosec-colour-wheel-blending-developers-with-red-and-blue-security-teams-6437c1a07700) for an understanding of the different "colours" of info sec.
+A collection of free and paid links to cyber security and IT resources. 
 
-Table of Contents
+🌈 Please feel free to contribute to this reading list. The more the merrier! 🌈
+
+
+## Table of Contents
+### Security
+#### Defensive
 - [Blue Team](blue-team.md)
-- [Red Team](red-team.md)
-- [Green Team](green-team.md)
-- [Yellow Team](yellow-team.md)
+- [DevSecOps](green-team.md)
 - [Orange Team](orange-team.md)
+
+#### Offensive
+- [Red Team](red-team.md)
 - [Purple Team](purple-team.md)
-- [White Team](white-team.md)
+
+#### Governance, Risk and Compliance
+- [Governance, Risk and Compliance](white-team.md)
 
 
-TO DO:
-- Add role types underneath colours
-- Add folders for different colours/roles. 
+### General IT
+#### Computer Science
+- [Yellow Team](yellow-team.md)
+
+#### Hardware 
+
+#### OS (Operating System)
+
+#### Networking
+
+#### Web Applications
+
+#### Programming
+
+## TO DO:
+- [ ] Change TOC headers
+- [ ] Refactor MD pages
