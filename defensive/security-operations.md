@@ -10,6 +10,8 @@
 #### Open Source
 
 #### Commercial
-- 
+- [Splunk Training](https://www.splunk.com/en_us/training.html?sort=Newest)
+
+
 ***
 [Home](README.md)
