@@ -1,12 +1,9 @@
 
-# Green Team 
+# DevSecOps
 ***
 ## DevSecOps
 - CI/CD
 - Pipeline
-
-***
-## Security Engineering
 
 ***
 [Home](README.md)
