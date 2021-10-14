@@ -43,7 +43,7 @@ A collection of free and paid links to cyber security and IT resources.
 ### General Cyber Security
 - [Cybersecurity and Its Ten Domains](https://www.coursera.org/learn/cyber-security-domain)
 
-### General Careers Advice
+### General Career Resources
 - [Ask A Manager Blog](https://www.askamanager.org/2020/07/heres-a-bunch-of-help-finding-a-new-job.html)
 
 ## TO DO:
