@@ -9,7 +9,7 @@ Many of these platforms have a mixture of free and paid content. Some of them ar
 - [O'Reilly](https://learning.oreilly.com/home/)
 - [LinkedIn Learning](https://www.lynda.com/)
 - [Code Like a Girl: Courses](https://learnto.codelikeagirl.com/courses)
-- [Treehouse] (https://teamtreehouse.com/)
+- [Treehouse](https://teamtreehouse.com/)
 
 ### Web Development
 - [MDN Mozilla: Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
