@@ -17,12 +17,12 @@ Two sides of the same coin!
 ### Tools
 - SAST (Static Application Security Testing)
 - DAST (Dynamic Application Security Testing) 
-- Education
+- Secure Development Training (at scale)
   - [Secure Code Warrior - unfortunately this is only available for businesses to purchase, instead of individuals](https://www.securecodewarrior.com/plans)
-  -  
 
 #### Open Source
 - SAST:
+  - [See the OWASP list here: ](https://owasp.org/www-community/Source_Code_Analysis_Tools)
 - DAST:
   - Burpsuite Community Edition
 
@@ -39,7 +39,7 @@ Two sides of the same coin!
   - Detectify
   - Burpsuite Pro
 
-###Education Platforms
+### Education Platforms
 - [TryHackMe](https://tryhackme.com/)
 - [Burpsuite Web Security Academy](https://portswigger.net/web-security)
 - [HackerOne](https://www.hacker101.com/)
